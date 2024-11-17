@@ -11,10 +11,14 @@
 
 - Java
 - Spring Boot
+- Redis
+- MySQL
 - C#
 - WinForm
+- SQLServer
 - JavaScript
 - Vue
+- Linux
 
 ### 开源项目
 - [基于WinForm + SQLServer的菜鸟驿站管理系统](https://github.com/MrXian763/Zicai.CNPS)
