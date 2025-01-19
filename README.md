@@ -10,7 +10,10 @@
 ### 🛠 技术栈 | Tech Stack
 
 - Java
+- Spring
 - Spring Boot
+- Spring Cloud
+- Elasticsearch
 - Redis
 - MySQL
 - C#
@@ -20,15 +23,11 @@
 - Vue
 - Linux
 
-### 开源项目
+### 项目
 - [基于WinForm + SQLServer的菜鸟驿站管理系统](https://github.com/MrXian763/Zicai.CNPS)
 - [Windows桌面计算器程序](https://github.com/MrXian763/Zhaoxi.Calculator)
 - [基于SpringCloud + SpringBoot + MySQL + Docker的在线判题系统](https://github.com/MrXian763/XOJ)
 - [基于SpringBoot + Vue + MySQL + Redis的伙伴匹配系统](https://github.com/MrXian763/friends-matching-backend)
-
-### 上线项目
-
-- [基于SpringBoot + Vue + MySQL + Redis的伙伴匹配系统](http://www.zicai.site)
 
 ### 关于我
 
